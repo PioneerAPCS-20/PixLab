@@ -12,7 +12,7 @@ At the end of the lab we will have an exam covering 2D arrays, binary, and enhan
 
 If using an IDE on your computer such as BlueJ, Eclipse, IntelliJ, etc., download the Github repo as a zip. The classes and images folders should be at the same level in the project folder OR the images can be copied into the same folder as the .java files. Don't forget to include the .gif files in the classes file.
 
-On Eclipse, you may need to have the images in the project folder outside of your src files where the .java files are.
+On Eclipse, IntelliJ, or VS Code, you may need to have the images in the project folder outside of your src files where the .java files are.
 
 If using Repl.it:
 * Go to my [PixLab project](https://repl.it/@codyjking/PixLab) and click the blue "Fork" button.
