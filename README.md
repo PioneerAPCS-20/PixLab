@@ -12,4 +12,10 @@ At the end of the lab we will have an exam covering 2D arrays, binary, and enhan
 
 If using an IDE on your computer such as BlueJ, Eclipse, IntelliJ, etc., download the Github repo as a zip. The classes and images folders should be at the same level in the project folder OR the images can be copied into the same folder as the .java files. Don't forget to include the .gif files in the classes file.
 
-If using Repl.it, download the Github repo as a zip. Then go to Repl.it and choose "Upload file" and upload all of the .java files and the two .gif files in the classes folder. Then upload all of the images in the images folder. Do not delete `Main.java`. In order to run the program, click "Run" which will compile all of the files run `Main.java`, which will print `Hello World!`, but just ignore it. Then in the console type `java <classname>` and then hit enter. For example, if you want to run `ColorChooser.java`, type `java ColorChooser` (don't include the .java). If you close the program and the orange arrow doesn't show up again, click inside the console and press `CTRL-C`.
+On Eclipse, you may need to have the images in the project folder outside of your src files where the .java files are.
+
+If using Repl.it:
+* Go to my [PixLab project](https://repl.it/@codyjking/PixLab) and click the blue "Fork" button.
+* When you edit a file, you can compile it by typing `javac <filename>` in the console and then hitting enter. For example, if you change the image in `PictureExplorer`, compile by typing `javac PictureExplorer.java`.
+* To run, type `java <classname>` and then hit enter. For example, if you want to run `ColorChooser.java`, type `java ColorChooser` (don't include the .java). If you close the program and the orange arrow doesn't show up again, click inside the console and press `CTRL-C`.
+
